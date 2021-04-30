@@ -5,6 +5,18 @@
 
 const countries = [
   {
+    code: "eu",
+    name: "European Union",
+    continent: "Europe",
+    continent_code: "eu",
+  },
+  {
+    code: "cis",
+    name: "Commonwealth of Independent States",
+    continent: "Europe",
+    continent_code: "eu",
+  },
+  {
     code: "ad",
     name: "Andorra",
     continent: "Europe",
